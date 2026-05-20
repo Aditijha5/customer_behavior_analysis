@@ -138,5 +138,5 @@ This project demonstrates practical skills in:
 
 ## Author
 
-**Aditi Jha**
+**Aditi Jha**,
 Data Analytics & Business Intelligence Enthusiast
